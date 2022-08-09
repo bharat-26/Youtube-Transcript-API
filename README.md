@@ -1,6 +1,6 @@
 # Youtube Transcript API
  
-### A Chrome Extension that generates summary of a YouTube video with the help of its transcript using Natural Language Processing (NLP). Tech Stack: Python, PyTorch, Flask, HuggingFace Transformer 
+#### A Chrome Extension that generates summary of a YouTube video with the help of its transcript using Natural Language Processing (NLP). Tech Stack: Python, PyTorch, Flask, HuggingFace Transformer 
 ### Abstract : 
    With the rise of Internet reach worldwide, there has been a substantial increase in the number
 of videos uploaded and shared on various networking sites. One of the most popular video
@@ -35,3 +35,16 @@ which will be passed to the ML model for generating summary. The summary will th
 sent through HTTP in the form of JSON and will be displayed to the user. The basic strategy
 it uses is using ML summarizing techniques on the transcript of the video.\
 
+
+### CONCLUSION:
+The goal of this summarizer is to reduce reading time, make the selection process easier, less
+biased than humans and present information in a way that is abbreviated and conserves the
+central content of the original article. This representation will not only save processing time,
+but will also save users from clicking baited videos. In this, we created a short and a fluent
+summary of a longer text transcript of a video, which mines appropriate information from the
+transcript to utilize the relevant information faster. Upon request from the user, this
+easy-to-use user interface would be able to display the text there only.
+We are sure this project will leave users satisfied and will solve all of the problems that it’s
+supposed to tackle i.e. saving your crucial and essential time, providing you the knowledge
+and data that you seek all the while making sure you can check out all the videos that
+important to you and not waste your precious time on one long video.
