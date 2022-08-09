@@ -35,4 +35,3 @@ which will be passed to the ML model for generating summary. The summary will th
 sent through HTTP in the form of JSON and will be displayed to the user. The basic strategy
 it uses is using ML summarizing techniques on the transcript of the video.\
 
-
